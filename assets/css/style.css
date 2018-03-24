@@ -1,0 +1,47 @@
+body {
+  background: url("../images/arabesque.png");
+  background-color: #a8a000;
+  font-family: 'Shrikhand', cursive;
+}
+
+label {
+    font-size: 22px;
+}
+
+.container {
+  clear: both;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 960px;
+}
+
+.userTvshow {
+  display: inline-block;
+  margin: 10px;
+}
+
+button.tvshow {
+  border-radius: 12px;
+  background-color: #3f2815;
+  color: gold;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 10px 5px 0;
+}
+
+#tvshow-form {
+  margin: 10px 0;
+}
+
+#addTvshow {
+  border-radius: 12px;
+  background-color: #2f635c;
+  color: rgb(241, 236, 180);
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 10px 80px;
+}
